@@ -2,7 +2,7 @@ import os
 
 from ezflix import yts
 from opensubs import get_subs
-from old.eztv import eztv
+
 
 
 class Scrape():
