@@ -18,7 +18,7 @@ from imdb import IMDb
 from tmdbv3api import TMDb, Movie
 import requests_cache
 import player
-from dat import Network
+
 
 requests_cache.install_cache('cache')
 tmdb = TMDb()
@@ -39,7 +39,6 @@ class Recommender(QtCore.QThread):
 class ThreadedSearcher(QtCore.QThread):
     # Main Class use to update Ui info
     search_result = QtCore.pyqtSignal(list)
-    database = Network()
     RUNNING = False
 
     def __init__(self):
@@ -74,7 +73,6 @@ class ThreadedSearcher(QtCore.QThread):
 class Updater(QtCore.QThread):
     # Main Class use to update Ui info
     update_signal = QtCore.pyqtSignal(dict)
-    database = Network()
     RUNNING = False
 
     def __init__(self):
@@ -100,14 +98,14 @@ class Updater(QtCore.QThread):
         if poster_path:
             poster_url = 'https://image.tmdb.org/t/p/w154' + poster_path
             r = requests.get(poster_url)
-            with open('./media/poster/' + str(name) + '.jpg', 'wb') as f:
+            with open(os.path.abspath('./media/poster/' + str(name) + '.jpg'), 'wb') as f:
                 f.write(r.content)
             self.return_value['poster_value'] = './media/poster/' + str(name) + '.jpg'
 
         if backdrop_path:
             backdrop_url = 'https://image.tmdb.org/t/p/w780' + backdrop_path
             r = requests.get(backdrop_url)
-            with open('./media/backdrop/' + str(name) + '.jpg', 'wb') as f:
+            with open(os.path.abspath('./media/backdrop/' + str(name) + '.jpg'), 'wb') as f:
                 f.write(r.content)
             self.return_value['backdrop_value'] = './media/backdrop/' + str(name) + '.jpg'
 
