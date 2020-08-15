@@ -1,0 +1,505 @@
+{
+  "612706": {
+    "id": "612706",
+    "Rating": "-1",
+    "Budget": "0M",
+    "Box Office": "0M",
+    "Year": "2020",
+    "tagline": "Dance to your own beat.",
+    "imdb_id": "tt10276470",
+    "title": "Work It",
+    "plot": "A brilliant but clumsy high school senior vows to get into her late father's alma mater by transforming herself and a misfit squad into dance champions.",
+    "poster_value": "./media/poster/612706.jpg",
+    "backdrop_value": "./media/backdrop/612706.jpg",
+    "runtime_mins": 93,
+    "Duration": "1h 33m",
+    "cast": [
+      "Sabrina Carpenter",
+      "Liza Koshy",
+      "Keiynan Lonsdale",
+      "Michelle Buteau"
+    ],
+    "Director": [
+      "Laura Terruso"
+    ],
+    "Genre": "Comedy, Music"
+  },
+  "271110": {
+    "id": "271110",
+    "Rating": "-1",
+    "Budget": "250M",
+    "Box Office": "1153M",
+    "Year": "2016",
+    "tagline": "Divided We Fall",
+    "imdb_id": "tt3498820",
+    "title": "Captain America: Civil War",
+    "plot": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+    "poster_value": "./media/poster/271110.jpg",
+    "backdrop_value": "./media/backdrop/271110.jpg",
+    "runtime_mins": 147,
+    "Duration": "2h 27m",
+    "cast": [
+      "Chris Evans",
+      "Robert Downey Jr.",
+      "Scarlett Johansson",
+      "Sebastian Stan"
+    ],
+    "Director": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "Genre": "Adventure, Action, Science Fiction"
+  },
+  "194662": {
+    "id": "194662",
+    "Rating": "-1",
+    "Budget": "18M",
+    "Box Office": "103M",
+    "Year": "2014",
+    "tagline": "",
+    "imdb_id": "tt2562232",
+    "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "plot": "A fading actor best known for his portrayal of a popular superhero attempts to mount a comeback by appearing in a Broadway play. As opening night approaches, his attempts to become more altruistic, rebuild his career, and reconnect with friends and family prove more difficult than expected.",
+    "poster_value": "./media/poster/194662.jpg",
+    "backdrop_value": "./media/backdrop/194662.jpg",
+    "runtime_mins": 120,
+    "Duration": "2h 0m",
+    "cast": [
+      "Michael Keaton",
+      "Emma Stone",
+      "Edward Norton",
+      "Naomi Watts"
+    ],
+    "Director": [
+      "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu"
+    ],
+    "Genre": "Drama, Comedy"
+  },
+  "496243": {
+    "id": "496243",
+    "Rating": "-1",
+    "Budget": "11M",
+    "Box Office": "245M",
+    "Year": "2019",
+    "tagline": "Act like you own the place.",
+    "imdb_id": "tt6751668",
+    "title": "Parasite",
+    "plot": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "poster_value": "./media/poster/496243.jpg",
+    "backdrop_value": "./media/backdrop/496243.jpg",
+    "runtime_mins": 133,
+    "Duration": "2h 13m",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik"
+    ],
+    "Director": [
+      "Bong Joon-ho"
+    ],
+    "Genre": "Comedy, Thriller, Drama"
+  },
+  "429617": {
+    "id": "429617",
+    "Rating": "-1",
+    "Budget": "160M",
+    "Box Office": "1131M",
+    "Year": "2019",
+    "tagline": "It\u2019s time to step up.",
+    "imdb_id": "tt6320628",
+    "title": "Spider-Man: Far from Home",
+    "plot": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+    "poster_value": "./media/poster/429617.jpg",
+    "backdrop_value": "./media/backdrop/429617.jpg",
+    "runtime_mins": 129,
+    "Duration": "2h 9m",
+    "cast": [
+      "Tom Holland",
+      "Samuel L. Jackson",
+      "Jake Gyllenhaal",
+      "Marisa Tomei"
+    ],
+    "Director": [
+      "Jon Watts"
+    ],
+    "Genre": "Action, Adventure, Science Fiction"
+  },
+  "605116": {
+    "id": "605116",
+    "Rating": "-1",
+    "Budget": "0M",
+    "Box Office": "0M",
+    "Year": "2020",
+    "tagline": "What would you risk for five minutes of pure power?",
+    "imdb_id": "tt7550000",
+    "title": "Project Power",
+    "plot": "An ex-soldier, a teen and a cop collide in New Orleans as they hunt for the source behind a dangerous new pill that grants users temporary superpowers.",
+    "poster_value": "./media/poster/605116.jpg",
+    "backdrop_value": "./media/backdrop/605116.jpg",
+    "runtime_mins": 113,
+    "Duration": "1h 53m",
+    "cast": [
+      "Jamie Foxx",
+      "Joseph Gordon-Levitt",
+      "Dominique Fishback",
+      "Rodrigo Santoro"
+    ],
+    "Director": [
+      "Henry Joost",
+      "Ariel Schulman"
+    ],
+    "Genre": "Science Fiction, Action, Crime, Mystery, Drama"
+  },
+  "181812": {
+    "id": "181812",
+    "Rating": "-1",
+    "Budget": "250M",
+    "Box Office": "1074M",
+    "Year": "2019",
+    "tagline": "Every generation has a legend",
+    "imdb_id": "tt2527338",
+    "title": "Star Wars: The Rise of Skywalker",
+    "plot": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
+    "poster_value": "./media/poster/181812.jpg",
+    "backdrop_value": "./media/backdrop/181812.jpg",
+    "runtime_mins": 142,
+    "Duration": "2h 22m",
+    "cast": [
+      "Carrie Fisher",
+      "Mark Hamill",
+      "Daisy Ridley",
+      "Adam Driver"
+    ],
+    "Director": [
+      "J.J. Abrams"
+    ],
+    "Genre": "Action, Adventure, Science Fiction"
+  },
+  "495764": {
+    "id": "495764",
+    "Rating": "-1",
+    "Budget": "75M",
+    "Box Office": "201M",
+    "Year": "2020",
+    "tagline": "Mind Over Mayhem",
+    "imdb_id": "tt7713068",
+    "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+    "plot": "Harley Quinn joins forces with a singer, an assassin and a police detective to help a young girl who had a hit placed on her after she stole a rare diamond from a crime lord.",
+    "poster_value": "./media/poster/495764.jpg",
+    "backdrop_value": "./media/backdrop/495764.jpg",
+    "runtime_mins": 109,
+    "Duration": "1h 49m",
+    "cast": [
+      "Margot Robbie",
+      "Ewan McGregor",
+      "Mary Elizabeth Winstead",
+      "Jurnee Smollett"
+    ],
+    "Director": [
+      "Cathy Yan"
+    ],
+    "Genre": "Action, Crime, Comedy"
+  },
+  "299536": {
+    "id": "299536",
+    "Rating": "-1",
+    "Budget": "300M",
+    "Box Office": "2046M",
+    "Year": "2018",
+    "tagline": "An entire universe. Once and for all.",
+    "imdb_id": "tt4154756",
+    "title": "Avengers: Infinity War",
+    "plot": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+    "poster_value": "./media/poster/299536.jpg",
+    "backdrop_value": "./media/backdrop/299536.jpg",
+    "runtime_mins": 149,
+    "Duration": "2h 29m",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Chris Evans",
+      "Scarlett Johansson"
+    ],
+    "Director": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "Genre": "Adventure, Action, Science Fiction"
+  },
+  "703771": {
+    "id": "703771",
+    "Rating": "-1",
+    "Budget": "0M",
+    "Box Office": "0M",
+    "Year": "2020",
+    "tagline": "Never give a paid killer a reason to work for free",
+    "imdb_id": "tt10394706",
+    "title": "Deathstroke: Knights & Dragons - The Movie",
+    "plot": "Ten years ago, Slade Wilson-aka the super-assassin called Deathstroke-made a tragic mistake and his wife and son paid a terrible price. Now, a decade later, Wilson's family is threatened once again by the murderous Jackal and the terrorists of H.IV.E. Can Deathstroke atone for the sins of the past-or will his family pay the ultimate price?",
+    "poster_value": "./media/poster/703771.jpg",
+    "backdrop_value": "./media/backdrop/703771.jpg",
+    "runtime_mins": 87,
+    "Duration": "1h 27m",
+    "cast": [
+      "Michael Chiklis",
+      "Sasha Alexander",
+      "Chris Jai Alex",
+      "Faye Mata"
+    ],
+    "Director": [
+      "Sung Jin Ahn"
+    ],
+    "Genre": "Animation, Action"
+  },
+  "659991": {
+    "id": "659991",
+    "Rating": "-1",
+    "Budget": "0M",
+    "Box Office": "0M",
+    "Year": "2020",
+    "tagline": "",
+    "imdb_id": "tt9207700",
+    "title": "Made in Italy",
+    "plot": "A bohemian artist travels from London to Italy with his estranged son to sell the house they inherited from his late wife.",
+    "poster_value": "./media/poster/659991.jpg",
+    "backdrop_value": "./media/backdrop/659991.jpg",
+    "runtime_mins": 94,
+    "Duration": "1h 34m",
+    "cast": [
+      "Liam Neeson",
+      "Lindsay Duncan",
+      "Miche\u00e1l Richardson",
+      "Valeria Bilello"
+    ],
+    "Director": [
+      "James D'Arcy"
+    ],
+    "Genre": "Comedy, Drama"
+  },
+  "516486": {
+    "id": "516486",
+    "Rating": "-1",
+    "Budget": "50M",
+    "Box Office": "0M",
+    "Year": "2020",
+    "tagline": "The only thing more dangerous than the front lines was the fight to get there.",
+    "imdb_id": "tt6048922",
+    "title": "Greyhound",
+    "plot": "A first-time captain leads a convoy of allied ships carrying thousands of soldiers across the treacherous waters of the \u201cBlack Pit\u201d to the front lines of WW2. With no air cover protection for 5 days, the captain and his convoy must battle the surrounding enemy Nazi U-boats in order to give the allies a chance to win the war.",
+    "poster_value": "./media/poster/516486.jpg",
+    "backdrop_value": "./media/backdrop/516486.jpg",
+    "runtime_mins": 91,
+    "Duration": "1h 31m",
+    "cast": [
+      "Tom Hanks",
+      "Elisabeth Shue",
+      "Stephen Graham",
+      "Matt Helm"
+    ],
+    "Director": [
+      "Aaron Schneider"
+    ],
+    "Genre": "War, Action, Drama"
+  },
+  "385103": {
+    "id": "385103",
+    "Rating": "-1",
+    "Budget": "0M",
+    "Box Office": "9M",
+    "Year": "2020",
+    "tagline": "Mystery loves company.",
+    "imdb_id": "tt3152592",
+    "title": "Scoob!",
+    "plot": "In Scooby-Doo\u2019s greatest adventure yet, see the never-before told story of how lifelong friends Scooby and Shaggy first met and how they joined forces with young detectives Fred, Velma, and Daphne to form the famous Mystery Inc. Now, with hundreds of cases solved, Scooby and the gang face their biggest, toughest mystery ever: an evil plot to unleash the ghost dog Cerberus upon the world. As they race to stop this global \u201cdogpocalypse,\u201d the gang discovers that Scooby has a secret legacy and an epic destiny greater than anyone ever imagined.",
+    "poster_value": "./media/poster/385103.jpg",
+    "backdrop_value": "./media/backdrop/385103.jpg",
+    "runtime_mins": 94,
+    "Duration": "1h 34m",
+    "cast": [
+      "Don Messick",
+      "Frank Welker",
+      "Will Forte",
+      "Amanda Seyfried"
+    ],
+    "Director": [
+      "Tony Cervone"
+    ],
+    "Genre": "Family, Animation, Comedy, Adventure"
+  },
+  "703745": {
+    "id": "703745",
+    "Rating": "-1",
+    "Budget": "5M",
+    "Box Office": "0M",
+    "Year": "2020",
+    "tagline": "Deadlier than ever.",
+    "imdb_id": "tt11946300",
+    "title": "Deep Blue Sea 3",
+    "plot": "Dr. Emma Collins and her team are spending their third summer on the island of Little Happy studying the effect of climate change on the great white sharks who come to the nearby nursery every year to give birth. Along with the last two inhabitants of this former fishing village, their peaceful life is disrupted when a \"scientific\" team led by her ex-boyfriend and marine biologist Richard show up looking for three bull sharks who we soon learn aren't just any bull sharks.",
+    "poster_value": "./media/poster/703745.jpg",
+    "backdrop_value": "./media/backdrop/703745.jpg",
+    "runtime_mins": 99,
+    "Duration": "1h 39m",
+    "cast": [
+      "Tania Raymonde",
+      "Nathaniel Buzolic",
+      "Emerson Brooks",
+      "Bren Foster"
+    ],
+    "Director": [
+      "John Pogue"
+    ],
+    "Genre": "Action, Horror, Science Fiction"
+  },
+  "430155": {
+    "id": "430155",
+    "Rating": "-1",
+    "Budget": "4M",
+    "Box Office": "2M",
+    "Year": "2019",
+    "tagline": "Will We Ever Wake Up?",
+    "imdb_id": "tt6087226",
+    "title": "Coma",
+    "plot": "A young and talented architect comes to his senses after a horrific accident only to find himself in the odd dystopian world. A world that is filled with the memories of all current coma patients. Just like a human memory this world is fragmental, chaotic and unstable. This is COMA: icecaps, rivers and cities can all exist in a space of a single room and laws of physics are no longer laws as they can be bent.",
+    "poster_value": "./media/poster/430155.jpg",
+    "backdrop_value": "./media/backdrop/430155.jpg",
+    "runtime_mins": 111,
+    "Duration": "1h 51m",
+    "cast": [
+      "Rinal Mukhametov",
+      "Anton Pampushnyy",
+      "Lyubov Aksyonova",
+      "Milo\u0161 Bikovi\u0107"
+    ],
+    "Director": [
+      "Nikita Argunov"
+    ],
+    "Genre": "Fantasy, Action, Science Fiction"
+  },
+  "27205": {
+    "id": "27205",
+    "Rating": "-1",
+    "Budget": "160M",
+    "Box Office": "825M",
+    "Year": "2010",
+    "tagline": "Your mind is the scene of the crime.",
+    "imdb_id": "tt1375666",
+    "title": "Inception",
+    "plot": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "poster_value": "./media/poster/27205.jpg",
+    "backdrop_value": "./media/backdrop/27205.jpg",
+    "runtime_mins": 148,
+    "Duration": "2h 28m",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Ellen Page",
+      "Tom Hardy"
+    ],
+    "Director": [
+      "Christopher Nolan"
+    ],
+    "Genre": "Action, Science Fiction, Adventure"
+  },
+  "475557": {
+    "id": "475557",
+    "Rating": "-1",
+    "Budget": "55M",
+    "Box Office": "1074M",
+    "Year": "2019",
+    "tagline": "Put on a happy face.",
+    "imdb_id": "tt7286456",
+    "title": "Joker",
+    "plot": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+    "poster_value": "./media/poster/475557.jpg",
+    "backdrop_value": "./media/backdrop/475557.jpg",
+    "runtime_mins": 122,
+    "Duration": "2h 2m",
+    "cast": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz",
+      "Frances Conroy"
+    ],
+    "Director": [
+      "Todd Phillips"
+    ],
+    "Genre": "Crime, Thriller, Drama"
+  },
+  "583083": {
+    "id": "583083",
+    "Rating": "-1",
+    "Budget": "0M",
+    "Box Office": "0M",
+    "Year": "2020",
+    "tagline": "Rules can be broken...but so can hearts.",
+    "imdb_id": "tt9784456",
+    "title": "The Kissing Booth 2",
+    "plot": "With college decisions looming, Elle juggles her long-distance romance with Noah, changing relationship with bestie Lee and feelings for a new classmate.",
+    "poster_value": "./media/poster/583083.jpg",
+    "backdrop_value": "./media/backdrop/583083.jpg",
+    "runtime_mins": 132,
+    "Duration": "2h 12m",
+    "cast": [
+      "Joey King",
+      "Jacob Elordi",
+      "Joel Courtney",
+      "Molly Ringwald"
+    ],
+    "Director": [
+      "Vince Marcello"
+    ],
+    "Genre": "Comedy, Romance"
+  },
+  "531499": {
+    "id": "531499",
+    "Rating": "-1",
+    "Budget": "30M",
+    "Box Office": "0M",
+    "Year": "2020",
+    "tagline": "Payback comes with interest.",
+    "imdb_id": "tt8461224",
+    "title": "The Tax Collector",
+    "plot": "David Cuevas is a family man who works as a gangland tax collector for high ranking Los Angeles gang members. He makes collections across the city with his partner Creeper making sure people pay up or will see retaliation. An old threat returns to Los Angeles that puts everything David loves in harm\u2019s way.",
+    "poster_value": "./media/poster/531499.jpg",
+    "backdrop_value": "./media/backdrop/531499.jpg",
+    "runtime_mins": 95,
+    "Duration": "1h 35m",
+    "cast": [
+      "Shia LaBeouf",
+      "Lana Parrilla",
+      "Elpidia Carrillo",
+      "Chelsea Rendon"
+    ],
+    "Director": [
+      "David Ayer"
+    ],
+    "Genre": "Action, Crime, Drama, Thriller"
+  },
+  "521034": {
+    "id": "521034",
+    "Rating": "-1",
+    "Budget": "0M",
+    "Box Office": "0M",
+    "Year": "2020",
+    "tagline": "",
+    "imdb_id": "tt2702920",
+    "title": "The Secret Garden",
+    "plot": "Mary Lennox is born in India to wealthy British parents who never wanted her. When her parents suddenly die, she is sent back to England to live with her uncle. She meets her sickly cousin, and the two children find a wondrous secret garden lost in the grounds of Misselthwaite Manor.",
+    "poster_value": "./media/poster/521034.jpg",
+    "backdrop_value": "./media/backdrop/521034.jpg",
+    "runtime_mins": 99,
+    "Duration": "1h 39m",
+    "cast": [
+      "Dixie Egerickx",
+      "Colin Firth",
+      "Julie Walters",
+      "Maeve Dermody"
+    ],
+    "Director": [
+      "Marc Munden"
+    ],
+    "Genre": "Drama, Fantasy, Family"
+  }
+}
