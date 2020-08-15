@@ -25,3 +25,4 @@ pip install -r requirements.txt
 ````
 
 #### Screen Shot
+![Sample](https://github.com/nishan7/Movie_Stream/blob/master/demo.png)
